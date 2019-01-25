@@ -1,4 +1,4 @@
-# Slim
+# Slim 
 
 [![npm version](https://img.shields.io/npm/v/slim-store.svg)](https://www.npmjs.org/package/slim-store)
 [![Github file size](https://img.shields.io/github/size/victor0210/slim/dist/release/slim/slim.min.js.svg)](https://github.com/victor0210/slim/blob/master/dist/release/slim/slim.min.js)
